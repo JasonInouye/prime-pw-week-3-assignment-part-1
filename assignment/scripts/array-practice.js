@@ -38,8 +38,14 @@ console.log('First animal is', animalArray[0])
 
 // 3.a. TODO: Log the second animal in the array
 
+console.log('The second animal is', animalArray[1]);
 
 // 3.b. TODO: Log the last animal in the array using it's array index
+console.log('The last animal in the array is the', animalArray[ animalArray.length - 1 ]);
+
+// console.log('lastanimal variable: ',lastanimal);
+
+// console.log('The last animal in the array is ', animalArray[${lastanimal}]);
 
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length,
